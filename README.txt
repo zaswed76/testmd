@@ -1,2 +1,2 @@
-пробный скрипт для тестирования
-утилиты setuptools
+test script for testing
+utilities setuptools

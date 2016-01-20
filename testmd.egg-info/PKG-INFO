@@ -1,11 +1,11 @@
 Metadata-Version: 1.0
 Name: testmd
-Version: 0.1
+Version: 0.4.0
 Summary: UNKNOWN
 Home-page: UNKNOWN
 Author: UNKNOWN
 Author-email: UNKNOWN
 License: UNKNOWN
-Description: РїСЂРѕР±РЅС‹Р№ СЃРєСЂРёРїС‚ РґР»СЏ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ
-        СѓС‚РёР»РёС‚С‹ setuptools
+Description: test script for testing
+        utilities setuptools
 Platform: UNKNOWN

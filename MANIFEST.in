@@ -1,1 +1,2 @@
-recursive-include testmd/etc *
+recursive-include testmd/etc
+include README.rst
